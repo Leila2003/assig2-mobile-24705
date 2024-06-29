@@ -6,6 +6,8 @@ UI SignUp screenshot
 UI SignIn screenshot
 ![Screenshot_1719689062](https://github.com/Leila2003/assig2-mobile-24705/assets/147077979/0c886bd7-cf4a-4078-9ac6-060128714df0)
 hamburger
+![Screenshot_1719689306](https://github.com/Leila2003/assig2-mobile-24705/assets/147077979/499b6fa8-a387-48ef-b21e-2dd0841a7868)
+calculator
 
 ## Getting Started
 
