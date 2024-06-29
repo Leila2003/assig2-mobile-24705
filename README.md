@@ -1,8 +1,11 @@
 # calculator
 
 Assignment 2
-UI SignUp
+UI SignUp screenshot
 ![Screenshot_1719689070](https://github.com/Leila2003/assig2-mobile-24705/assets/147077979/d9bc69fe-9292-49ff-8a2a-3a0f95a84ace)
+UI SignIn screenshot
+![Screenshot_1719689062](https://github.com/Leila2003/assig2-mobile-24705/assets/147077979/0c886bd7-cf4a-4078-9ac6-060128714df0)
+hamburger
 
 ## Getting Started
 
