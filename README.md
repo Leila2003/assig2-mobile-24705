@@ -1,6 +1,8 @@
 # calculator
 
-A new Flutter project.
+Assignment 2
+UI SignUp
+![Screenshot_1719689070](https://github.com/Leila2003/assig2-mobile-24705/assets/147077979/d9bc69fe-9292-49ff-8a2a-3a0f95a84ace)
 
 ## Getting Started
 
